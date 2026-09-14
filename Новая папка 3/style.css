@@ -1,0 +1,543 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.der {
+    color: green;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    left: 100px;
+
+}
+
+.pick {
+    background: linear-gradient(135deg, rgba(0, 104, 95, 0.05) 0%, #F5FAF8 50%, rgba(169, 53, 48, 0.05) 100%);
+
+    height: 250px;
+}
+
+.men {
+    display: flex;
+    position: relative;
+    right: 150px;
+    gap: 10px;
+}
+
+.salom {
+    display: flex;
+    position: relative;
+    right: 100px;
+    gap: 50px;
+}
+
+.skuik {
+    color: red;
+    position: relative;
+    left: 745px;
+    top: 55px;
+
+
+
+}
+
+.semione {
+    position: relative;
+    top: 40px;
+    left: 590px;
+
+
+
+
+}
+
+.you {
+    position: relative;
+    top: 50px;
+    left: 485px;
+    margin-top: 20px;
+
+}
+
+.semi {
+    color: rgb(250, 251, 250);
+    background-color: #00685F;
+    width: 132.67px;
+    height: 44px;
+    border-radius: 8px;
+
+}
+
+.our {
+    color: black;
+    position: relative;
+    top: 13px;
+}
+
+.text {
+    width: 468px;
+    height: 42px;
+    max-width: 768px;
+    border-radius: 16px;
+    position: relative;
+    left: 90px;
+
+}
+
+.skip {
+    width: 100px;
+    position: relative;
+    right: 15px;
+    background-color: #00685F;
+    height: 39px;
+    border-radius: 12px;
+}
+
+.beramiz {
+
+    position: relative;
+    top: 15px;
+    left: 300px;
+    color: #00685F;
+}
+
+.emr {
+    position: relative;
+    left: 90px;
+}
+
+.beramiz1 {
+    position: relative;
+    top: -18px;
+    left: 797px;
+    color: #00685F;
+}
+
+.beramiz2 {
+    position: relative;
+    top: -50px;
+    left: 1375px;
+    color: #00685F;
+}
+
+.fedya {
+    position: relative;
+    left: 300px;
+}
+
+.fri {
+    position: relative;
+    left: 1450px;
+}
+
+.deri {
+    width: 338px;
+    height: 192px;
+    position: relative;
+    left: 270px;
+    margin: 30px;
+}
+
+.dikiy {
+    width: 338px;
+    height: 192px;
+    position: relative;
+    left: 750px;
+    top: -215px;
+}
+
+.xishniy {
+    width: 338px;
+    height: 192px;
+    position: relative;
+    left: 1200px;
+    top: -405px;
+    ;
+}
+
+.metromen {
+    width: 65.13px;
+    height: 29px;
+    border-radius: 9999px;
+    position: relative;
+    top: -190px;
+    left: 260px;
+    background-color: #FFFFFFE5;
+}
+
+.megamiya {
+    width: 65.13px;
+    height: 29px;
+    border-radius: 9999px;
+    position: relative;
+    top: -190px;
+    left: 260px;
+    background-color: #FFFFFFE5;
+}
+
+.metromiya {
+    width: 65.13px;
+    height: 29px;
+    border-radius: 9999px;
+    position: relative;
+    top: -190px;
+    left: 260px;
+    background-color: #FFFFFFE5;
+}
+
+.samsvoy {
+    width: 65.13px;
+    height: 29px;
+    border-radius: 9999px;
+    background-color: #D1FAE5;
+    position: relative;
+    color: green;
+    right: 40px;
+    top: 30px;
+}
+
+.samsvoy1 {
+    width: 65.13px;
+    height: 29px;
+    border-radius: 9999px;
+    background-color: #D1FAE5;
+    position: relative;
+    color: green;
+    right: 40px;
+    top: 30px;
+}
+
+.samsvoy2 {
+    width: 65.13px;
+    height: 29px;
+    border-radius: 9999px;
+    background-color: #FFE4E6;
+    position: relative;
+    color: red;
+    right: 40px;
+    top: 30px;
+}
+
+.kurama {
+
+    position: relative;
+    margin: 10px;
+    top: 30px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+
+}
+
+.kurama1 {
+    position: relative;
+    right: 30px;
+    top: -20px;
+
+
+}
+
+.semenyo {
+    width: 206.5467px;
+    height: 50px;
+    border-radius: 8px;
+    position: relative;
+    right: 30px;
+    color: #00685F;
+}
+
+.sakura {
+    position: relative;
+    margin: 10px;
+    top: 30px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+
+.sakura1 {
+    position: relative;
+    right: 30px;
+    top: -20px;
+}
+
+.halland {
+    width: 206.5467px;
+    height: 50px;
+    border-radius: 8px;
+    position: relative;
+    right: 30px;
+    color: #00685F;
+}
+
+.saske {
+    position: relative;
+    margin: 10px;
+    top: 30px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+
+.saske1 {
+    position: relative;
+    right: 30px;
+    top: -20px;
+}
+
+.indra {
+    width: 206.5467px;
+    height: 50px;
+    border-radius: 8px;
+    position: relative;
+    right: 30px;
+    color: #00685F;
+}
+
+.solo {
+    width: 1755px;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F5FAF8;
+    position: relative;
+    top: -575px;
+    right: 1300px;
+    z-index: -1;
+}
+
+
+
+
+.eren {
+    background: #eaf2ed;
+    padding: 70px;
+    position: relative;
+    top: -100px;
+}
+
+.mikasa {
+    width: 1200px;
+    margin: auto;
+}
+
+.armin {
+    text-align: center;
+}
+
+.armin h2 {
+    font-size: 30px;
+}
+
+.armin p {
+    color: gray;
+}
+
+.levi {
+    display: flex;
+    gap: 20px;
+    margin-top: 40px;
+}
+
+.reiner {
+    width: 280px;
+    padding: 25px;
+    background: white;
+    border-radius: 10px;
+}
+
+.reiner p {
+    color: gray;
+    margin-top: 10px;
+}
+
+
+.gojo {
+    padding: 70px;
+}
+
+.yuji {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.megumi {
+    text-align: center;
+}
+
+.nobara {
+    display: flex;
+    gap: 25px;
+    margin-top: 40px;
+}
+
+.maki {
+    width: 380px;
+position: relative;
+left: 140px;
+}
+
+
+.maki img {
+    width: 280px;
+    height: 200px;
+  position: relative;
+left: 25px;
+}
+
+
+.maki h3 {
+    margin-top: 15px;
+    font-size: 20px;
+    position: relative;
+left: 25px;
+}
+
+.maki p {
+    margin-top: 8px;
+    color: gray;
+    position: relative;
+left: 25px;
+}
+
+.nagi{
+    width: 80px;
+    height: 80px;
+    border-radius: 9999px;
+    background-color: #00685F;
+    position: relative;
+    left: 15px;
+   
+    
+}
+
+.isagi{
+    width: 100%;
+    min-height: 320px;
+    background-color: #08796f;
+    padding: 55px 20px 70px;
+}
+
+.bachira{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    margin-bottom: 45px;
+}
+
+.rin{
+    max-width: 1100px;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.nagi1{
+    width: 330px;
+    min-height: 170px;
+
+    background-color: white;
+    border-radius: 10px;
+
+    padding: 22px;
+
+
+}
+
+.reo{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    margin-bottom: 18px;
+}
+
+.reo img{
+    width: 45px;
+    height: 45px;
+
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.reo h3{
+    font-size: 15px;
+    color: #222;
+    margin-bottom: 4px;
+}
+
+.reo span{
+    color: #f5b400;
+    font-size: 12px;
+}
+
+.nagi1 p{
+    font-size: 13px;
+    line-height: 1.6;
+    color: #555;
+}
+
+
+.rin-footer {
+    width: 100%;
+    background-color: #eaf0ee;
+    padding-top: 45px;
+}
+
+.shidou {
+    max-width: 1100px;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+
+    padding: 0 20px 35px;
+}
+
+.karasu {
+    width: 220px;
+}
+
+.karasu h3 {
+    color: #08796f;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.karasu p {
+    color: #555;
+    font-size: 12px;
+    line-height: 1.7;
+    margin: 0;
+}
+
+.oliver {
+    display: flex;
+    gap: 12px;
+    margin-top: 15px;
+}
+
+.shigaraki {
+    border-top: 1px solid #d9dfdd;
+
+    text-align: center;
+
+    padding: 15px;
+
+    color: #777;
+    font-size: 10px;
+}
